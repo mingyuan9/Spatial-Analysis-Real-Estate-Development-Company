@@ -17,4 +17,9 @@ Step 1: Filter data to limit feature display.
 The first step is to filter the Gresham Zoning layer to display only the areas zoned for mixed-use development on the map.
 I used `OR logical` to find area that meet the filter creteria: **Both Office Mix-use Residential (MUC1) and Downtown Mix-use Residential (MUC2)**
 Check the below map, and these areas are symbolized with pink or maroon
-![MUC1 and MUC2]()
+![MUC1 and MUC2](https://github.com/mingyuan9/Spatial-Analysis-Real-Estate-Development-Company/blob/main/1.FilterMixUse.png)
+
+Step 2: Examine statistics
+In this step, I'm going to answer **How much area is zoned for mixed-use development?**
+I used `Information` in the feature table and found out that slightly over 517 acres meet the criteria in either MUC1 or MUC2.
+![information]()
