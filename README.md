@@ -29,7 +29,7 @@ I used `Information` in the feature table and found out that slightly over 517 a
 **Step 3: Enrich Block Group layer by adding attribute information**
 I applied `Analysis` in the Setting toolbar and by adding `enrichment variables` in the Block Group, I successfully added `2023 Renter Occupied HUs` attibute in the layer.
 
-![Addting attribute to layer]()
+![Addting attribute to layer](https://github.com/mingyuan9/Spatial-Analysis-Real-Estate-Development-Company/blob/main/3.AddingAttribute%20toLayer.png)
 
 **Step 4: Calculate field**
 The development company also wants to determine how many young people btween 20s and 30s reside within these block groups.
